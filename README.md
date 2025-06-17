@@ -3,7 +3,7 @@
 A modern and responsive **Login & Registration UI** built with **HTML & CSS**. This project focuses on clean layout, responsive design, and user-friendly interface.
 
 ## 🌐 Live Demo  
-👉 [Click Here to View]()
+👉 [Click Here to View](https://manish6862.github.io/login-page/)
 
 ---
 
@@ -29,10 +29,10 @@ A modern and responsive **Login & Registration UI** built with **HTML & CSS**. T
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-![Login Page](img/Screenshot (79).png)
+![Login Page](img/login.png)
 
 ### 📝 Registration Page
-![Registration Page](img/Screenshot (78).png)
+![Registration Page](img/register.png)
 
 ---
 
